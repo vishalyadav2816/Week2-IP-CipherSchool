@@ -1,0 +1,16 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.heading{
+    color: pink;
+}
+.class-aqua{
+    color: aquamarine;
+}
+.class-red{
+    color: red;
+}
+.class-bg{
+    background-color: black;
+}

@@ -1,0 +1,16 @@
+body{
+    font-family: sans-serif;
+}
+
+#main-heading{
+    background-color: red;
+}
+
+
+.main-section{
+    background-color: rgb(219, 123, 123);
+}
+
+p{
+    color: yellow;
+}

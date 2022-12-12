@@ -1,0 +1,19 @@
+body{
+    font-family: sans-serif;
+}
+div ul{
+    display: flex;
+    align-items: center;
+    padding: 90px;
+    margin: 100px;
+    border: 1px solid grey;
+    background-color: grey;
+
+}
+li{
+    margin: auto;
+}
+
+ h3{
+    border-bottom: 2px solid black;
+}

@@ -1,0 +1,14 @@
+div#container ul.my-song li{
+    color: brown;
+    background-color: yellow;
+}
+/* how to calculate specificity */
+/* 0, 1, 1, 3 */
+
+div#container ul.my-song li.favourite{
+    color: yellow;
+    background-color: brown;
+}
+
+/* 0, 0, 1, 0 *--->10/
+

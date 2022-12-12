@@ -1,0 +1,16 @@
+/* inline style attribute > id selector > class > element selector */
+h1{
+    color: green;
+}
+
+.h1class{
+    color: brown;
+}
+h1.heading{
+    color: blueviolet;
+}
+
+/* #h1{
+    color: aqua !important;
+} */
+
